@@ -1,0 +1,19 @@
+{
+  "name": "wind-direction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chris-Wong-1/wind-direction.git"
+  },
+  "author": "Chris Wong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chris-Wong-1/wind-direction/issues"
+  },
+  "homepage": "https://github.com/Chris-Wong-1/wind-direction#readme"
+}
